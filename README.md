@@ -28,7 +28,7 @@
 
 <div align="center">
 
-| Langueges | Process | Not |
+| Langueges | Process | Note |
 |:---|:---|:---|
 | **HTML** | ▰▰▰▱▱▱▱▱▱▱ | It's quite challenging and I'm facing some issues, but I've already learned to write simple code |
 | **CSS** | ▰▰▰▰▱▱▱▱▱▱ | It's going pretty well, and it's quite easy to learn |
