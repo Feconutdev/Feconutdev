@@ -60,13 +60,7 @@
 
 <br/>
 
-## 🐍 Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/feconutdev/feconutdev/output/github-snake.svg" alt="rắn ăn ô xanh" width="100%"/>
-
-<sub>~ What a greedy snake! ~</sub>
+---
 
 </div>
 
