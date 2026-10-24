@@ -66,6 +66,6 @@
 
 <div align="center">
 
-> *"Overnight noise is built on quiet daily discipline."*
+> *"- Don’t cry over the past, it’s gone. Don’t stress about the future, it hasn’t arrived. Live in the present and make it beautiful -"*
 
 </div>
